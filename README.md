@@ -1,2 +1,2 @@
 # Alarm-Clock
-Alarm clock created with Cora Z7 for COMPE-470L Final
+Alarm clock created with Cora Z7 for COMPE-470L Final in 12 hours.
